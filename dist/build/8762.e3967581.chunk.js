@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpremier_league_api=self.webpackChunkpremier_league_api||[]).push([[8762],{58762:(p,e,i)=>{i.r(e),i.d(e,{default:()=>n});const n={"plugin.description.long":"Dodaje GraphQL endpoint z domy\u015Blnymi metodami API.","plugin.description.short":"Dodaje GraphQL endpoint z domy\u015Blnymi metodami API.","plugin.name":"GraphQL"}}}]);

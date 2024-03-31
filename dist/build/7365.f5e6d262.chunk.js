@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpremier_league_api=self.webpackChunkpremier_league_api||[]).push([[7365],{77365:(p,e,d)=>{d.r(e),d.d(e,{default:()=>n});const n={"plugin.description.long":"Adds GraphQL endpoint with default API methods.","plugin.description.short":"Adds GraphQL endpoint with default API methods.","plugin.name":"GraphQL"}}}]);
